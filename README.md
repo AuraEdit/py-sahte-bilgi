@@ -10,7 +10,8 @@
 
 **Açıklama**
 * Kodlayan AuraEdit#1447
-* Bu Programı AuraEdit'ten İzin Alınmadan Satılamaz
+* Bu Programı AuraEdit'ten İzin Almadan Satamazsınız
+* Siz Yapmışsınız Gibi Yayamazsınız MIT License Boşa Yok :)
 * Bu Program Bedava Şekilde Sizlere Sunulmaktadır
 * Bu Programda Üretilen Bilgiler Asla Gerçek Değildir Sahte Bilgilerdir
 * Bu Tür Programlar İçin Star Vermeyi Unutmayınız
