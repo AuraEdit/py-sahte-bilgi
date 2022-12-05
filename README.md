@@ -1,10 +1,10 @@
 **Termux**
-* git clone https://github.com/ParamonPlay2205/py-info-generator/
+* git clone https://github.com/AuraEdit/py-info-generator/
 * pip install -r requirements.txt
 * python main.py
 
 **Linux**
-* git clone https://github.com/ParamonPlay2205/py-info-generator/
+* git clone https://github.com/AuraEdit/py-info-generator/
 * pip3 install -r requirements.txt
 * python3 main.py
 
